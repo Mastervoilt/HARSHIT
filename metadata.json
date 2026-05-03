@@ -1,0 +1,11 @@
+{
+  "name": "Remix: Zoya AI Assistant",
+  "description": "A witty, sassy, and playful voice-to-voice AI assistant with a distinct flirty personality. Built with Gemini Multimodal Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "voice_interaction",
+    "multimodal_live_api"
+  ]
+}
